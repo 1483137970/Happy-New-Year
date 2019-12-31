@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "FZZJ-ZMJXLBXSJW";
+    src: url("FZZJ-ZMJXLBXSJW.eot"); /* IE9 */
+    src: url("FZZJ-ZMJXLBXSJW.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("FZZJ-ZMJXLBXSJW.woff") format("woff"), /* chrome、firefox */
+    url("FZZJ-ZMJXLBXSJW.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("FZZJ-ZMJXLBXSJW.svg#FZZJ-ZMJXLBXSJW") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
